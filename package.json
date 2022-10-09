@@ -1,0 +1,33 @@
+{
+  "name": "instagram-media-api",
+  "version": "1.0.0",
+  "description": "NodeJs Instagram Media API. Get API details by instagram post link.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdeepx/instagram-media-api.git"
+  },
+  "keywords": [
+    "instagram media api",
+    "instagram api",
+    "instagram post api",
+    "nodejs instagram api",
+    "backend",
+    "instagram scraping",
+    "instagram"
+  ],
+  "author": "deepx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdeepx/instagram-media-api/issues"
+  },
+  "homepage": "https://github.com/sdeepx/instagram-media-api#readme",
+  "dependencies": {
+    "axios": "^1.0.0",
+    "cheerio": "^1.0.0-rc.12",
+    "valid-url": "^1.0.9"
+  }
+}
